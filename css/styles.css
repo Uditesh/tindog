@@ -146,11 +146,11 @@ p{
 /* Footer section */
 #footer{
   text-align: center;
-  padding: 7% 15%;
+  padding: 5px;
 }
 
 .social-icon{
-  margin: 20px 10px;
+  margin: 15px 2px;
 }
 
 @media (max-width: 993px) {
