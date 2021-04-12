@@ -146,12 +146,14 @@ p{
 /* Footer section */
 #footer{
   text-align: center;
-  padding: 5px;
+  padding: 10px;
 }
 
 .social-icon{
-  margin: 15px 2px;
+  margin: 15px 5px;
+
 }
+
 
 @media (max-width: 993px) {
   .title-image{
